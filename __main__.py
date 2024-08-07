@@ -1,3 +1,3 @@
-import myModule1myModule1
+from mod1.myModule1 import CUDA_Avail
 
-print(myModule1.CUDA_Avail())
+print(CUDA_Avail())
