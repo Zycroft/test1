@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="test1",
+    name="mdwPkg1",
     version="1.0",
     packages=find_packages(),
 )
